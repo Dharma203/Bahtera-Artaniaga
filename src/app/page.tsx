@@ -12,14 +12,13 @@ export default function HomePage() {
           </p>
 
           <h1 className="mt-8 text-5xl md:text-6xl font-semibold text-slate-950 leading-tight max-w-4xl mx-auto">
-            Solusi Distribusi Modern
+            Mitra Terpercaya Anda
             <br />
-            untuk Bisnis Anda
+            dalam Solusi IT
           </h1>
 
           <p className="mt-10 text-slate-500 text-lg max-w-2xl mx-auto">
-            Profesional, efisien, dan terpercaya dalam mendukung rantai pasok
-            serta perdagangan.
+            Profesional, efisien, dan terpercaya.
           </p>
         </Container>
       </Section>
